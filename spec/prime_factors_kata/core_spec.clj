@@ -4,4 +4,7 @@
 
 (describe "primes-of"
   (it "returns [2] for 2"
-    (should= [2] (primes-of 2))))
+    (should= [2] (primes-of 2)))
+
+  (it "returns [3] for 3"
+    (should= [3] (primes-of 3))))

@@ -1,1 +1,2 @@
-# prime-factors-kata
+Clojure kata (prime-factors)
+
